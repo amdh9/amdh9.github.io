@@ -1415,7 +1415,7 @@ body {
 }
 .cid-rvPyrbYRx7 {
   padding-top: 135px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
 }
 .cid-rvPyrbYRx7 H1 {
   text-align: center;
@@ -1818,6 +1818,103 @@ body {
 .cid-rvPfuYVXHv .nav-link:hover,
 .cid-rvPfuYVXHv .dropdown-item:hover {
   color: #767676 !important;
+}
+.cid-rw7K2TkuMY {
+  padding-top: 60px;
+  padding-bottom: 0px;
+}
+.cid-rw7K2TkuMY h2 {
+  margin-bottom: 0;
+}
+.cid-rw7K2TkuMY h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
+}
+.cid-rw7K2TkuMY p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rw7K2TkuMY .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rw7K2TkuMY .card-wrapper .card-box {
+  padding: 2rem 1rem;
+  width: 100%;
+}
+.cid-rw7K2TkuMY .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rw7K2TkuMY .card-wrapper .card-box .bottom-line {
+  width: 70%;
+}
+@media (max-width: 767px) {
+  .cid-rw7K2TkuMY .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-rw7K2TkuMY .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-rw7K2TkuMY H2 {
+  text-align: center;
+}
+.cid-rw7K2TkuMY P {
+  color: #000000;
+  text-align: right;
+}
+.cid-rw8r7FwVaA {
+  padding-top: 0px;
+  padding-bottom: 45px;
+}
+.cid-rw8r7FwVaA h2 {
+  margin-bottom: 0;
+}
+.cid-rw8r7FwVaA h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
+}
+.cid-rw8r7FwVaA p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-rw8r7FwVaA .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-rw8r7FwVaA .card-wrapper .card-box {
+  padding: 2rem 1rem;
+  width: 100%;
+}
+.cid-rw8r7FwVaA .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-rw8r7FwVaA .card-wrapper .card-box .bottom-line {
+  width: 70%;
+}
+@media (max-width: 767px) {
+  .cid-rw8r7FwVaA .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-rw8r7FwVaA .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-rw8r7FwVaA P {
+  color: #000000;
+  text-align: center;
 }
 .cid-rvWnbOunRy {
   background-image: url("../../../assets/images/background3.jpg");
